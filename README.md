@@ -1,0 +1,2 @@
+# Analysis-on-Indian-Liver-Patient-Dataset
+For this project, we aim to use MySQL and Python environments to conduct analysis and experiments on the database which consists of records of patients with liver diseases. We consider that the value of this project will not only help us gain hands-on experience to better understand several tools and concepts of relational database management systems, data manipulation, and machine learning but also learn the significance of maintaining records and how it could be utilized.
